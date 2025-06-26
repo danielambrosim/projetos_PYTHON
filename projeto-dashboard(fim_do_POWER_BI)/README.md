@@ -23,9 +23,6 @@ pip install streamlit pandas plotly
 3. Rode o dashboard:
 streamlit run dashboard.py
 
-yaml
-Copiar
-Editar
 
 O arquivo `supermarket_sales.csv` já está incluído para testes.
 
@@ -37,10 +34,4 @@ O arquivo `supermarket_sales.csv` já está incluído para testes.
 - `supermarket_sales.csv` — base de dados usada
 - `testes.ipynb` — anotações e testes exploratórios
 
----
 
-## Print
-
-![Exemplo de dashboard](#)
-
----
