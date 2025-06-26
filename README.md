@@ -1,23 +1,26 @@
 # Projetos Python
 
-Repositório com projetos diversos em Python para estudo e portfólio.
+Este repositório reúne projetos de estudos, experimentação e portfólio em Python, abrangendo temas como visualização de dados, interfaces gráficas e machine learning.
 
-## Projetos incluídos
+## Índice de Projetos
 
 - [Dashboard de Vendas de Supermercado](./projeto-dashboard(fim_do_POWER_BI))
-- [Sistema de Login (CustomTkinter)](./projeto-login)
-- [Projeto de Machine Learning - Predição de Pizzas](./projeto-ml)
+- [Sistema de Login com CustomTkinter](./projeto-login)
+- [Projeto de Machine Learning — Predição de Pizzas](./projeto-ml)
 
-Cada pasta contém um README detalhado com instruções de uso.
-
----
-
-## Como rodar os projetos
-
-1. Navegue até a pasta do projeto desejado.
-2. Siga as instruções do README correspondente.
-3. Recomenda-se o uso de ambientes virtuais (`venv` ou `poetry`) para instalar dependências.
+Cada pasta possui um README detalhado com instruções específicas.
 
 ---
 
-> Dúvidas ou sugestões? Abra uma issue ou entre em contato!
+## Como executar um projeto
+
+1. Entre na pasta desejada:  
+   `cd nome-do-projeto`
+
+2. Siga o passo a passo do respectivo README.
+
+3. Para projetos com dependências, recomenda-se o uso de ambientes virtuais (`venv` ou [Poetry](https://python-poetry.org/)).
+
+---
+
+Feito com 💙 por [danielambrosim](https://github.com/danielambrosim)
