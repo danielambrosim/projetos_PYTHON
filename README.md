@@ -28,14 +28,11 @@ Dica rápida:
 Use um ambiente virtual sempre que possível!
 
 Ambiente padrão (venv):
-
-
 python -m venv .venv
 .venv\Scripts\activate   # Windows
 source .venv/bin/activate  # Mac/Linux
+
 Ou, se disponível, use Poetry:
-
-
 poetry install
 poetry shell
 
