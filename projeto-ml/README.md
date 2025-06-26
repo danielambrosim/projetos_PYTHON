@@ -12,16 +12,16 @@ Exemplo de projeto de ML com estrutura profissional, usando **Poetry** para gere
 
 1. Instale o [Poetry](https://python-poetry.org/docs/):
 
-pip install poetry
+- pip install poetry
 
 2. Instale as dependências do projeto:
-poetry install
+- poetry install
 
 3. Ative o ambiente virtual do Poetry:
-poetry shell
+- poetry shell
 
 4. Execute o app:
-python app.py
+- python app.py
 
 ---
 
