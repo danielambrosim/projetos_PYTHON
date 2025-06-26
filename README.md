@@ -19,7 +19,7 @@ Cada pasta possui um README detalhado com instruções específicas.
 
 2. Siga o passo a passo do respectivo README.
 
-3. Para projetos com dependências, recomenda-se o uso de ambientes virtuais (`venv` ou [Poetry](https://python-poetry.org/)).
+3. Para projetos com dependências, recomenda-se o uso de ambientes virtuais (`venv` ou `poetry`).
 
 ---
 
